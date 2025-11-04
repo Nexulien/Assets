@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M27,35L35,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,-6,0)">
+        <path d="M27,35L19,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-6,-14)">
+        <path d="M21,32L19,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,18,5)">
+        <path d="M21,32L19,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,21,2)">
+        <path d="M21,32L19,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,12,-14)">
+        <path d="M21,32L23,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-12,5)">
+        <path d="M21,32L23,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-15,2)">
+        <path d="M21,32L23,30" style="fill:none;stroke:rgb(0,255,153);stroke-width:2px;"/>
+    </g>
+    <path d="M9.779,12.938L20.779,5.938C22.744,4.687 25.256,4.687 27.221,5.938L38.221,12.938C39.952,14.039 41,15.949 41,18L41,30C41,32.051 39.952,33.961 38.221,35.062L27.221,42.062C25.256,43.313 22.744,43.313 20.779,42.062L9.779,35.062C8.048,33.961 7,32.051 7,30L7,18C7,15.949 8.048,14.039 9.779,12.938ZM10.852,14.625C9.699,15.36 9,16.632 9,18L9,30C9,31.368 9.699,32.64 10.852,33.375L21.852,40.375C23.163,41.208 24.837,41.208 26.148,40.375L37.148,33.375C38.301,32.64 39,31.368 39,30L39,18C39,16.632 38.301,15.36 37.148,14.625L26.148,7.625C24.837,6.792 23.163,6.792 21.852,7.625L10.852,14.625Z" style="fill:rgb(0,255,153);"/>
+    <path id="Original-Hexagon" serif:id="Original Hexagon" d="M24,37L35,30L35,18L24,11L13,18L13,30L24,37Z" style="fill:none;"/>
+</svg>
